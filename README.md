@@ -16,5 +16,3 @@ about anything on it. Don't hesitate to join it if you want to get in touch with
 RedNeath/RedNeath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![Example](https://github-stats-alpha.vercel.app/api?username=RedNeath "RedNeath")

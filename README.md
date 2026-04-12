@@ -11,7 +11,7 @@ Not really anything so far... I still struggle trusting other's code a little. F
 - 📫 How to reach me ...<br>
 You can contact me via email at: <a mailto="theandre.bourry@ik.me">theandre.bourry@ik.me</a>, or on matrix: `@redneath:theandre.dev`.  
 You can also join <a href="https://discord.gg/g6XuGQTKZd">my discord server</a>, but I plan on migrating it to matrix as well. It's a server about the story I'm writing, so it won't be explicitly about programming, but I'm still open to talk
-about anything on it. Don't hesitate to join it if you want to get in touch with me.
+about anything on it.
 
 <!---
 RedNeath/RedNeath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

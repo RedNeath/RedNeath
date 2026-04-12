@@ -9,7 +9,8 @@ I'm learning to draw and write properly, as I would like one day to publish a fa
 Not really anything so far... I still struggle trusting other's code a little. Feel free to ask some help from me though, I'd be happy to help on any open source project I like!<br>
 
 - 📫 How to reach me ...<br>
-<a href="https://discord.gg/g6XuGQTKZd">My discord server!</a> :D It's a server about the story I'm writing, so it won't be explicitly about programming, but I'm still open to talk
+You can contact me via email at: <a mailto="theandre.bourry@ik.me">theandre.bourry@ik.me</a>, or on matrix: `@redneath:theandre.dev`.  
+You can also join <a href="https://discord.gg/g6XuGQTKZd">my discord server</a>, but I plan on migrating it to matrix as well. It's a server about the story I'm writing, so it won't be explicitly about programming, but I'm still open to talk
 about anything on it. Don't hesitate to join it if you want to get in touch with me.
 
 <!---

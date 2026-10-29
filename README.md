@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RedNeath/RedNeath/vibe/profile-readme-be24e4/assets/header.svg" alt="Théandre Bourry — RedNeath" width="504"/>
+<img src="https://raw.githubusercontent.com/RedNeath/RedNeath/main/assets/header.svg" alt="Théandre Bourry — RedNeath" width="504"/>
 
 <p>
   <a href="https://github.com/RedNeath?tab=repositories"><img src="https://img.shields.io/badge/repos-23__public-181717?style=flat&logo=github&logoColor=white" alt="Repositories"/></a>

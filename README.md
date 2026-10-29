@@ -1,5 +1,6 @@
+<!-- PREVIEW DES 4 POLICES (à retirer ensuite) -->
+<!-- VARIANTE georgia -->
 <div align="center">
-
 <table>
 <tr>
 <td width="88" style="padding:0">
@@ -11,16 +12,52 @@
 </td>
 </tr>
 </table>
-
-<p>
-  <a href="https://github.com/RedNeath?tab=repositories"><img src="https://img.shields.io/badge/repos-23__public-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories"/></a>
-  <a href="https://github.com/RedNeath?tab=followers"><img src="https://img.shields.io/github/followers/RedNeath?style=flat-square&logo=github&label=followers&color=dc2626" alt="Followers"/></a>
-  <a href="mailto:theandre.bourry@ik.me"><img src="https://img.shields.io/badge/email-theandre.bourry%40ik.me-dc2626?style=flat-square&logo=maildotru&logoColor=white" alt="Email"/></a>
-  <a href="https://matrix.to/#/@redneath:theandre.dev"><img src="https://img.shields.io/badge/matrix-%40redneath%3Atheandre.dev-181717?style=flat-square&logo=matrix&logoColor=white" alt="Matrix"/></a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=dc2626&center=true&vCenter=true&width=700&lines=Recreating+Excel%27s+formula+engine+in+pure+C;Contributing+to+a+Lua+5.5+web+framework;Tailwind+fork+of+LubeLogger;Writing+a+fantasy+novel+on+the+side" alt="Typing SVG"/>
-
+</div>
+<hr/>
+<!-- VARIANTE playfair -->
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Merriweather:wght@700&family=IBM+Plex+Serif:wght@700&display=swap" rel="stylesheet">
+<div align="center">
+<table>
+<tr>
+<td width="88" style="padding:0">
+<img src="https://avatars.githubusercontent.com/RedNeath" width="88" height="88" style="border-radius:8px;display:block" alt="Théandre Bourry"/>
+</td>
+<td style="padding-left:16px;text-align:left;vertical-align:middle">
+<h1 style="margin:0;font-family:'Playfair Display',Georgia,serif;font-size:32px;font-weight:700">Théandre Bourry</h1>
+<p style="margin:2px 0 0;color:#8b949e;font-size:18px">@RedNeath</p>
+</td>
+</tr>
+</table>
+</div>
+<hr/>
+<!-- VARIANTE merriweather -->
+<div align="center">
+<table>
+<tr>
+<td width="88" style="padding:0">
+<img src="https://avatars.githubusercontent.com/RedNeath" width="88" height="88" style="border-radius:8px;display:block" alt="Théandre Bourry"/>
+</td>
+<td style="padding-left:16px;text-align:left;vertical-align:middle">
+<h1 style="margin:0;font-family:'Merriweather',Georgia,serif;font-size:32px;font-weight:700">Théandre Bourry</h1>
+<p style="margin:2px 0 0;color:#8b949e;font-size:18px">@RedNeath</p>
+</td>
+</tr>
+</table>
+</div>
+<hr/>
+<!-- VARIANTE ibmplex -->
+<div align="center">
+<table>
+<tr>
+<td width="88" style="padding:0">
+<img src="https://avatars.githubusercontent.com/RedNeath" width="88" height="88" style="border-radius:8px;display:block" alt="Théandre Bourry"/>
+</td>
+<td style="padding-left:16px;text-align:left;vertical-align:middle">
+<h1 style="margin:0;font-family:'IBM Plex Serif',Georgia,serif;font-size:32px;font-weight:700">Théandre Bourry</h1>
+<p style="margin:2px 0 0;color:#8b949e;font-size:18px">@RedNeath</p>
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -33,7 +70,7 @@
 - **🌐 [hecate](https://github.com/hecate-framework/hecate)** — modular, contract-first web API framework for Lua 5.5. 35 PRs: reactor, net (TCP/UDP/TLS), JSON codec, CI, docs site.
   <br/><img src="https://img.shields.io/badge/Lua-5.5-000000?style=flat-square&logo=lua&logoColor=white"/> <img src="https://img.shields.io/github/license/hecate-framework/hecate?style=flat-square&color=dc2626"/> <img src="https://img.shields.io/github/last-commit/hecate-framework/hecate?style=flat-square&color=dc2626"/>
 
-- **🚗 [tailwind-lubelog](https://github.com/RedNeath/tailwind-lubelog)** — Tailwind-styled fork of LubeLogger (vehicle maintenance tracker, 2.9k⭐ upstream). 36 PRs on the Vue front-end: navigation, i18n, settings, kiosk mode.
+- **🚗 [tailwind-lubelog](https://github.com/RedNeath/tailwind-lubelog)** — Tailwind-styled fork of LubeLogger (2.9k⭐ upstream). 36 PRs on the Vue front-end: navigation, i18n, settings, kiosk mode.
   <br/><img src="https://img.shields.io/github/languages/top/RedNeath/tailwind-lubelog?style=flat-square&color=dc2626"/> <img src="https://img.shields.io/github/last-commit/RedNeath/tailwind-lubelog?style=flat-square&color=dc2626"/>
 
 - **🖥️ [elementary/monitor](https://github.com/elementary/monitor)** — contribution to the elementary OS system monitor (362⭐): Wayland GPU support, French translations.

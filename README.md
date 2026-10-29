@@ -1,14 +1,6 @@
 <div align="center">
 
-<<<<<<< HEAD
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedNeath/RedNeath/vibe/profile-readme-be24e4/assets/header.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedNeath/RedNeath/vibe/profile-readme-be24e4/assets/header.svg"/>
-  <img src="https://raw.githubusercontent.com/RedNeath/RedNeath/vibe/profile-readme-be24e4/assets/header.svg" alt="Théandre Bourry — @RedNeath" width="640"/>
-</picture>
-=======
-<img src="https://raw.githubusercontent.com/RedNeath/RedNeath/vibe/profile-readme-be24e4/assets/header.svg" alt="Théandre Bourry — @RedNeath" width="640"/>
->>>>>>> d574325850bfd381f62e1bd180bc9ce3a331686c
+<img src="https://raw.githubusercontent.com/RedNeath/RedNeath/vibe/profile-readme-be24e4/assets/header.svg" alt="Théandre Bourry — RedNeath" width="640"/>
 
 <p>
   <a href="https://github.com/RedNeath?tab=repositories"><img src="https://img.shields.io/badge/repos-23__public-181717?style=flat&logo=github&logoColor=white" alt="Repositories"/></a>
@@ -30,11 +22,7 @@
 
 <table>
 <tr>
-<<<<<<< HEAD
-<td width="50%" valign="top" style="padding:8px;border:1px solid #d0d7de;border-radius:10px">
-=======
 <td width="50%" valign="top" style="padding:10px;border:1px solid #d0d7de;border-radius:10px">
->>>>>>> d574325850bfd381f62e1bd180bc9ce3a331686c
 
 #### [ExcelFormulaCalculationEngine](https://github.com/RedNeath/ExcelFormulaCalculationEngine)
 
@@ -45,11 +33,7 @@ Pure C library that recreates Excel's formula engine, built to embed in any prog
 <img src="https://img.shields.io/github/license/RedNeath/ExcelFormulaCalculationEngine?style=flat&color=dc2626"/> <img src="https://img.shields.io/github/stars/RedNeath/ExcelFormulaCalculationEngine?style=flat&color=dc2626"/> <img src="https://img.shields.io/github/issues/RedNeath/ExcelFormulaCalculationEngine?style=flat&color=dc2626"/>
 
 </td>
-<<<<<<< HEAD
-<td width="50%" valign="top" style="padding:8px;border:1px solid #d0d7de;border-radius:10px">
-=======
 <td width="50%" valign="top" style="padding:10px;border:1px solid #d0d7de;border-radius:10px">
->>>>>>> d574325850bfd381f62e1bd180bc9ce3a331686c
 
 #### [hecate](https://github.com/hecate-framework/hecate)
 
@@ -62,11 +46,7 @@ Modular, contract-first web API framework for Lua 5.5 — with its own docs site
 </td>
 </tr>
 <tr>
-<<<<<<< HEAD
-<td width="50%" valign="top" style="padding:8px;border:1px solid #d0d7de;border-radius:10px">
-=======
 <td width="50%" valign="top" style="padding:10px;border:1px solid #d0d7de;border-radius:10px">
->>>>>>> d574325850bfd381f62e1bd180bc9ce3a331686c
 
 #### [tailwind-lubelog](https://github.com/RedNeath/tailwind-lubelog)
 
@@ -77,11 +57,7 @@ Full restyle of LubeLogger's front-end (ASP.NET Core MVC app, 2.9k stars upstrea
 <img src="https://img.shields.io/github/languages/top/RedNeath/tailwind-lubelog?style=flat&color=dc2626"/> <img src="https://img.shields.io/github/last-commit/RedNeath/tailwind-lubelog?style=flat&color=dc2626"/>
 
 </td>
-<<<<<<< HEAD
-<td width="50%" valign="top" style="padding:8px;border:1px solid #d0d7de;border-radius:10px">
-=======
 <td width="50%" valign="top" style="padding:10px;border:1px solid #d0d7de;border-radius:10px">
->>>>>>> d574325850bfd381f62e1bd180bc9ce3a331686c
 
 #### [elementary/monitor](https://github.com/elementary/monitor)
 
@@ -131,8 +107,4 @@ Contribution to the elementary OS system monitor (362 stars, Vala): Wayland supp
 
 <div align="center">
 <sub>This README is displayed on my GitHub profile — RedNeath/RedNeath is a special repository</sub>
-<<<<<<< HEAD
 </div>
-=======
-</div>
->>>>>>> d574325850bfd381f62e1bd180bc9ce3a331686c

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="120" viewBox="0 0 640 120">
+  <style>
+    .name { fill: #1f2328; font-family: Georgia, 'Times New Roman', serif; font-size: 34px; font-weight: 700; }
+    .handle { fill: #8b949e; font-family: -apple-system, 'Segoe UI', sans-serif; font-size: 19px; }
+    .tagline { fill: #dc2626; font-family: 'Fira Code', monospace; font-size: 15px; }
+    @media (prefers-color-scheme: dark) {
+      .name { fill: #e6edf3; }
+      .handle { fill: #8b949e; }
+    }
+  </style>
+  <image href="https://avatars.githubusercontent.com/RedNeath" x="8" y="16" width="88" height="88" rx="10" ry="10" preserveAspectRatio="xMidYMid slice"/>
+  <text class="name" x="112" y="58">Théandre Bourry</text>
+  <text class="handle" x="112" y="84">@RedNeath</text>
+  <text class="tagline" x="112" y="106">backend &amp; systems developer · Lua, C, Java</text>
+</svg>

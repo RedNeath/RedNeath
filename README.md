@@ -1,19 +1,46 @@
-- 👋 Hi, I’m @RedNeath
-- 👀 I’m interested in ...<br>
-Music, programming, writing, drawing... Quite a lot of things actually<br>
+<div align="center">
 
-- 🌱 I’m currently learning ...<br>
-I'm learning to draw and write properly, as I would like one day to publish a fantasy book.<br>
+# Hi, I'm Théo 👋 — @RedNeath
 
-- 💞️ I’m looking to collaborate on ...<br>
-Not really anything so far... I still struggle trusting other's code a little. Feel free to ask some help from me though, I'd be happy to help on any open source project I like!<br>
+> *Just a tiny drop of that red I love* 🔴
 
-- 📫 How to reach me ...<br>
-You can contact me via email at: <a mailto="theandre.bourry@ik.me">theandre.bourry@ik.me</a>, or on matrix: `@redneath:theandre.dev`.  
-You can also join <a href="https://discord.gg/g6XuGQTKZd">my discord server</a>, but I plan on migrating it to matrix as well. It's a server about the story I'm writing, so it won't be explicitly about programming, but I'm still open to talk
-about anything on it.
+</div>
 
-<!---
-RedNeath/RedNeath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🎨 What I'm into
+
+Music, programming, writing, drawing… quite a lot of things actually.
+
+### 🌱 Currently learning
+
+Drawing and writing properly — I'd like to publish a fantasy book one day.
+
+### 🤝 Open to collaborate
+
+Not really anything so far… I still struggle trusting other people's code a little.
+That said, feel free to ask me for help — I'd be happy to contribute to any open source project I like!
+
+### 🛠️ Projects I'm proud of
+
+| Project | What it is |
+| --- | --- |
+| [ExcelFormulaCalculationEngine](https://github.com/RedNeath/ExcelFormulaCalculationEngine) | Pure C library recreating Excel's formula calculation engine |
+| [s3mmich](https://github.com/RedNeath/s3mmich) | Recreation of immich's backend with native S3 storage support |
+| [license-generator](https://github.com/RedNeath/license-generator) | CLI tool in C to automate license file creation |
+| [BetterQwant](https://github.com/RedNeath/BetterQwant) | Because Qwant decided to be ugly |
+| [tailwind-components-framework](https://github.com/RedNeath/tailwind-components-framework) | A Vue.js component framework with Tailwind styling |
+
+### 📫 How to reach me
+
+- ✉️ Email: [theandre.bourry@ik.me](mailto:theandre.bourry@ik.me)
+- 💬 Matrix: `@redneath:theandre.dev`
+- 🎮 Discord: [join my server](https://discord.gg/g6XuGQTKZd) — about the story I'm writing, but I'm open to talk about anything on it (I plan on migrating to Matrix as well)
+
+---
+
+<div align="center">
+
+<sub>RedNeath/RedNeath is a ✨ special ✨ repository — this README appears on my GitHub profile.</sub>
+
+</div>

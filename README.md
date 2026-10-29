@@ -10,8 +10,8 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=E6EDF3&center=true&vCenter=true&width=720&lines=Recreating+Excel%27s+formula+engine+in+pure+C;Contributing+to+a+Lua+5.5+web+framework;Rewriting+LubeLogger%27s+front+in+Tailwind;Writing+a+fantasy+novel+on+the+side"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=1F2328&center=true&vCenter=true&width=720&lines=Recreating+Excel%27s+formula+engine+in+pure+C;Contributing+to+a+Lua+5.5+web+framework;Rewriting+LubeLogger%27s+front+in+Tailwind;Writing+a+fantasy+novel+on+the+side" alt="Typing SVG"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1400&color=E6EDF3&center=true&vCenter=true&width=620&lines=Recreating+Excel%27s+formula+engine+in+pure+C;Contributing+to+a+Lua+5.5+web+framework;Rewriting+LubeLogger%27s+front+in+Tailwind;Writing+a+fantasy+novel+on+the+side"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1400&color=1F2328&center=true&vCenter=true&width=620&lines=Recreating+Excel%27s+formula+engine+in+pure+C;Contributing+to+a+Lua+5.5+web+framework;Rewriting+LubeLogger%27s+front+in+Tailwind;Writing+a+fantasy+novel+on+the+side" alt="Typing SVG"/>
 </picture>
 
 </div>
